@@ -18,7 +18,7 @@ requests
   * 第一种方法 放各种云(自己软路由也行)上面装好crontab后输入
   `crontab -e`  
   输入  
-  `3 1 * * * python path/to/autotable.py #每天03:01分运行,错峰`  
+  `0 3 * * * python path/to/autotable.py #每天03:00分运行,错峰`  
   
   * 第二种方法 如果你能坚持每天开电脑学da习ji  
   就在这个路径创建autotable.vbs文件  
