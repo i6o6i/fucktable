@@ -39,6 +39,7 @@ def get(url,params={}, headers={}):
 #sourcemail='myemail@qq.com'
 #sourcemailauthcode= 'authcodeOfmyemail'
 Test=0
+test_data={}
 
 batch =[
         {
