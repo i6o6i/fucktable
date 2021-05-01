@@ -15,7 +15,7 @@
 5. 定时任务
 
 
-  * 第一种方法 放各种云(自己软路由也行)上面装好crontab后输入
+  * 第一种方法 放各种云(自己软路由也行)，或者自己手机装个termux，上面装好crontab后输入
   `crontab -e`  
   输入  
   `0 3 * * * python path/to/autotable.py #每天03:00分运行,错峰`  
