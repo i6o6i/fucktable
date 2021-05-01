@@ -45,8 +45,10 @@ batch =[
             #学号及密码
             'studentid':'myid',
             'passwd':'mypasswd',
+            '''
             #通知邮箱
             'infoemail': 'myemail@qq.com'
+            '''
             }
         ]
 #同伴互助
@@ -56,8 +58,10 @@ if Test == 0 :
                 #基友学号及密码
                 'studentid':'your_friends_id',
                 'passwd':'your_friends_passwd',
+                '''
                 #基友邮箱
                 'infoemail': 'hisemail'
+                '''
                 }
     ])
 
