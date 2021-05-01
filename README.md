@@ -19,16 +19,16 @@
   获取脚本
   `git clone https://github.com/i6o6i/fucktable`
   安装crontab  
-  `pkg install crontab`
-  配置crontab
-  `crontab -e`
-  输入
-  `0-10 0,1 * * * python3 /data/data/com.termux/files/home/fucktable/fucktable.py`
-  开启crontab
-  `sv-enable crond`
-  保存termux在凌晨0:00至1:10后台运行且手机没关数据
-  * 第二种方法 放各种云(自己软路由也行)，或者自己手机装个termux，上面装好crontab后输入
+  `pkg install crontab`  
+  配置crontab  
   `crontab -e`  
+  输入  
+  `0-10 0,1 * * * python3 /data/data/com.termux/files/home/fucktable/fucktable.py`  
+  开启crontab  
+  `sv-enable crond`  
+  保存termux在凌晨0:00至1:10后台运行且手机没关数据  
+  * 第二种方法 放各种云(自己软路由也行)，或者自己手机装个termux，上面装好crontab后输入  
+  `crontab -e`   
   输入  
   `0 3 * * * python path/to/autotable.py #每天03:00分运行,错峰`  
   
