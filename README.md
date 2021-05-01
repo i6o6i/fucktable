@@ -15,9 +15,9 @@
 5. 定时任务
 
 
-  * 第一种方法 手机装termux（推荐） 
-  获取脚本
-  `git clone https://github.com/i6o6i/fucktable`
+  * 第一种方法 手机装termux（推荐）  
+  获取脚本  
+  `git clone https://github.com/i6o6i/fucktable`  
   安装crontab  
   `pkg install crontab`  
   配置crontab  
