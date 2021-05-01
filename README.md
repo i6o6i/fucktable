@@ -1,11 +1,11 @@
 # autotable
 防控师生健康日报表
-填完发邮箱通知
+~~填完发邮箱通知~~
 
 # 依赖
-requests
+~~requests~~
 # 配置
-1. ~~无依赖~~
+1. ~~安装requests~~
 ~~`pip install requests`~~
 
 2. ~~sourcemail填你自己的邮箱~~
