@@ -5,12 +5,12 @@
 # 依赖
 requests
 # 配置
-1. 如果没安装请安装依赖  
-`pip install requests`
+1. ~~无依赖~~
+~~`pip install requests`~~
 
-2. sourcemail填你自己的邮箱
-3. sourcemailauthcode是对应的授权码，如果是qq邮箱需要发短信得到授权码，取决于哪个平台的邮箱,详情请看[用QQ邮箱发送邮件](https://blog.csdn.net/Momorrine/article/details/79881251)
-4. batch数组是需要填报的学号以及密码，和他的邮箱，填完后会发邮件到这个邮箱,无论是否填报成功都会发送邮件
+2. ~~sourcemail填你自己的邮箱~~
+3. ~~sourcemailauthcode是对应的授权码，如果是qq邮箱需要发短信得到授权码，取决于哪个平台的邮箱,详情请看[用QQ邮箱发送邮件](https://blog.csdn.net/Momorrine/article/details/79881251)~~
+4. batch数组是需要填报的学号以及密码~~，和他的邮箱，填完后会发邮件到这个邮箱,无论是否填报成功都会发送邮件~~
 
 5. 定时任务
 
